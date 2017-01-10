@@ -1,0 +1,5 @@
+C:\Users\Evgeniy\Documents\Visual Studio 2015\Projects\lab_7\lab_7\bin\Debug\lab_7.exe.config
+C:\Users\Evgeniy\Documents\Visual Studio 2015\Projects\lab_7\lab_7\obj\Debug\lab_7.csprojResolveAssemblyReference.cache
+C:\Users\Evgeniy\Documents\Visual Studio 2015\Projects\lab_7\lab_7\obj\Debug\lab_7.Form1.resources
+C:\Users\Evgeniy\Documents\Visual Studio 2015\Projects\lab_7\lab_7\obj\Debug\lab_7.Properties.Resources.resources
+C:\Users\Evgeniy\Documents\Visual Studio 2015\Projects\lab_7\lab_7\obj\Debug\lab_7.csproj.GenerateResource.Cache
